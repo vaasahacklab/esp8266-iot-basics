@@ -55,18 +55,18 @@ RGB-LED, ldr, button
 
 # ESP8266 Arduino examples:
 * ESP8266 --> Blink
- * Vilkuttaa lediä LED_BUILTIN-portissa. 1s pois päältä, 2s päällä
+  * Vilkuttaa lediä LED_BUILTIN-portissa. 1s pois päältä, 2s päällä
 * ESP8266 --> BlinkWithoutDelay
- * Kuten yllä mutta käyttää Elapsedmillis eli ohjelma ei jää kiinni viive-komentoon
+  * Kuten yllä mutta käyttää Elapsedmillis eli ohjelma ei jää kiinni viive-komentoon
 * ESP8266 --> CallSDKFunctions
- * Esimerkki miten käytetään "Expressif ESP8266 SDK":n ominaisuuksia
+  * Esimerkki miten käytetään "Expressif ESP8266 SDK":n ominaisuuksia
 * ESP8266 --> CheckFlashConfig
- * Syöttää ESP-piirin EEPROM:ssa olevat asetukset sarjaporttiin
- * Technical data and nonsense if you are not into it
+  * Syöttää ESP-piirin EEPROM:ssa olevat asetukset sarjaporttiin
+  * Technical data and nonsense if you are not into it
 
-* Very advanced (do not try ;):
- * ESP8266 --> Arduino_Wifi_AVRISP
- * Arduino AVR-ISP over TCP
+* **Very advanced (do not try ;):**
+  * ESP8266 --> Arduino_Wifi_AVRISP
+  * Arduino AVR-ISP over TCP
 
 
 
