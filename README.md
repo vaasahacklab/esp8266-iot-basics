@@ -58,8 +58,6 @@ RGB-LED, ldr, button
   * Vilkuttaa lediä LED_BUILTIN-portissa. 1s pois päältä, 2s päällä
 * ESP8266 --> BlinkWithoutDelay
   * Kuten yllä mutta käyttää Elapsedmillis eli ohjelma ei jää kiinni viive-komentoon
-* ESP8266 --> CallSDKFunctions
-  * Esimerkki miten käytetään "Expressif ESP8266 SDK":n ominaisuuksia
 * ESP8266 --> CheckFlashConfig
   * Syöttää ESP-piirin EEPROM:ssa olevat asetukset sarjaporttiin
   * Technical data and nonsense if you are not into it
